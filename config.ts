@@ -7,7 +7,7 @@ export const config: {
   };
 } = {
   port: {
-    default: "3000",
+    default: "8000",
     env: "PORT",
     argsShort: "p",
     argsLong: "port",
